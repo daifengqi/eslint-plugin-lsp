@@ -5,8 +5,11 @@
     "daifeng",
     "dclr",
     "dclrs",
+    "eslintplugin",
     "fileoverview",
+    "quasis",
     "Regs",
+    "requireindex",
     "semibold"
   ]
 }
